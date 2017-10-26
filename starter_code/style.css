@@ -32,7 +32,6 @@ body button {
   margin-bottom: 20px;
 }
 
-#game-board {
-    float: left;
-    padding: 20px 0px;
+#canvas {
+  margin-top: 50px;
 }
